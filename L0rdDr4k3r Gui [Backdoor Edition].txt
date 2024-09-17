@@ -1,8 +1,1 @@
-while true do
-game:GetService("StarterGui"):SetCore("SendNotification", { 
-        Title = "Pumpken";
-        Text = "look at this skid";
-        Icon = "rbxthumb://type=Asset&id=94048184590478&w=150&h=150"})
-    Duration = 11;
-print("Fuck u")
-end
+
